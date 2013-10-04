@@ -37,3 +37,12 @@ Recommended reading: The following selection of books is an optional selection f
 * Tukey, John Wilder 1977. Exploratory Data Analysis. Reading, Addison-Wesley.
 * Ware, Colin 2008. Visual thinking for design. Amsterdam etc., Elsevier/Morgan Kauffman Publishers.
 * Yau, Nathan 2011. Visualize this: the FlowingData guide to design, visualization and statistics. Indianapolis (IN), Wiley Publishing Inc.
+
+## Schedule
+
+| Date   | 	Topic                                                |
+|--------|-------------------------------------------------------|
+| 4.10.  |	Intro                                                |
+| 11.10. |	Graphic design basics: type, colour, grids           |
+| 14.10. |	Maps and statistical graphics                        |
+| 21.10. |	Interactive and exploratory graphics; Final critique | 
