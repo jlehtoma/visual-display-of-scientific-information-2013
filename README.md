@@ -1,6 +1,8 @@
 ### VISUAL DISPLAY OF SCIENTIFIC INFORMATION (1 ECTS)
 4, 11, 14, and 21 October 2013, 12:15-15:00, room 6602, Biocenter 3, Viikki
 
+From [LUOVA web page](http://www.helsinki.fi/luova/education/courses/info_design.html).
+
 **Teacher:** Information designer Juuso Koponen, visiting lecturer at Aalto University School of Arts, Design and Architecture  
 **Objectives:** This course aims to give a basic skill set for clear, concise and attractive visual presentation of data and scientific findings in papers, posters and presentations. The topics covered on the course include:
 * basics of graphic design (typography, page layout, grid systems ect.)
